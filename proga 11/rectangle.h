@@ -1,0 +1,1 @@
+//// Created by Karina on 22.11.2022.//#ifndef PROGA_11_RECTANGLE_H#define PROGA_11_RECTANGLE_Hstruct rectangle{    int x1, y1;    int x2, y2;    int x3, y3;};double perimeter(struct rectangle);double space (struct rectangle);#endif //PROGA_11_RECTANGLE_H

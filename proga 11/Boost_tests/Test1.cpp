@@ -1,0 +1,1 @@
+#include <iostream>#include <boost/version.hpp>using namespace std;int main() {    cout << "Hello, World!" << endl;    Cout << "Boost version:" << boost_version << endl;    return 0;}

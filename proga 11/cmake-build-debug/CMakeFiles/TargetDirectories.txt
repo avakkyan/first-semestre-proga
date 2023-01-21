@@ -1,0 +1,3 @@
+C:/Users/5054671/labs/proga/proga 11/cmake-build-debug/CMakeFiles/proga_11.dir
+C:/Users/5054671/labs/proga/proga 11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/5054671/labs/proga/proga 11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
